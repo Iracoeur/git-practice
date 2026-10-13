@@ -3,3 +3,4 @@ I am learning version control.
 but I can't believe everything the ai tell me so I had to do it myself.
 ok now I think I am going to try the last option. I am learning git and GitHub
 This change was made on Github.
+learning git fetch today.
